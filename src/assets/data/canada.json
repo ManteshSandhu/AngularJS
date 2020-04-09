@@ -1,0 +1,65 @@
+{
+  "name": "Canada",
+  "canada":[
+    {
+      "type": "province",
+      "name": "Alberta",
+      "capital": "Edmonton"
+    },
+    {
+      "type": "province",
+      "name": "Manitoba",
+      "capital": "Winnipeg"
+    },
+    {
+      "type": "province",
+      "name": "New Brunswick",
+      "capital": "Fredericton"
+    },
+    {
+      "type": "province",
+      "name": "Newfoundland and Labrador",
+      "capital": "St. John's"
+    },
+    {
+      "type": "territory",
+      "name": "Northwest Territories",
+      "capital": "Yellowknife"
+    },
+    {
+      "type": "province",
+      "name": "Nova Scotia",
+      "capital": "Halifax"
+    },
+    {
+      "type": "territory",
+      "name": "Nunavut",
+      "capital": "Iqualuit"
+    },
+    {
+      "type": "province",
+      "name": "Ontario",
+      "capital": "Toronto"
+    },
+    {
+      "type": "province",
+      "name": "Prince Edward Island",
+      "capital": "Charlottetown"
+    },
+    {
+      "type": "province",
+      "name": "Quebec",
+      "capital": "Quebec City"
+    },
+    {
+      "type": "province",
+      "name": "Saskatchewan",
+      "capital": "Regina"
+    },
+    {
+      "type": "territory",
+      "name": "Yukon Territory",
+      "capital": "Whitehorse"
+    }
+  ]
+}
