@@ -4,8 +4,9 @@ main{
 }
 
 h1{
-  color: #4caf50;
+  color: saddlebrown;
   text-shadow: 2px 2px 5px #81c784;
+  padding-left: 1em;
 }
 
 

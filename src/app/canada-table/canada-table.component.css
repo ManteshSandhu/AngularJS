@@ -1,44 +1,41 @@
 h2 {
-  color: #00bcd4;
+  color: saddlebrown;
+  font-family: "Comic Sans MS", serif;
 }
 
 td{
-  padding: 6px
+  padding: 4px;
 }
 
 table{
   margin-left: 2em;
   border: solid 2px #0d47a1;
   border-collapse: collapse;
-  box-shadow: 2px 2px 10px #03a9f4;
+  box-shadow: 4px 4px 20px violet;
 }
 
 span.canada_label{
-  color: #673ab7;
+  color: darkred;
   font-size: larger;
   font-weight: bolder;
 }
 
 th, td {
-  border: 1px solid #0d47a1;
+  border: 2px solid blue;
   padding: .5em;
+
 }
 
 th{
-  color: white;
+  color: darkred;
 }
 
 td {
-  background-color: #e3f2fd;
-  color: #1a237e;
+  background-color: violet;
+  color: darkred;
 }
 
 th.col{
   text-align: left;
-  background-color: #1e88e5;
-}
-
-th.row{
-  text-align: center;
-  background-color: #64b5f6;
+  background-color: yellowgreen;
 }
