@@ -1,0 +1,23 @@
+<h2>Canada Divisions</h2>
+<img src="assets/images/canada.jpg">
+<table>
+  <tr>
+    <th class="col">Count</th>
+    <th class="col">Division Name</th>
+    <th class="col">Division Type</th>
+    <th class="col">Capital</th>
+  </tr>
+  <tr *ngFor="let c of canada">
+    <td>
+      {{c.id}}
+    </td>
+    <td>
+      <span class="canada_label">{{c.name}}</span>
+    </td>
+    <td> <span class="canada_label">{{c.type}}</span></td>
+  <td>
+    <span class="canada_label"> {{c.capital}}</span>
+    </td>
+  </tr>
+</table>
+
